@@ -1,9 +1,9 @@
 # RuDok
 
 RuDok is a document manager written in java.
-
 Rudok's architecture is component based. All components are shown in the picture below:
 
+![](images/a.png)
 
 Several design patterns were used in this project including: Observer, State, MVC, Command, Singleton, Factory
 
@@ -15,3 +15,5 @@ With RuDok user can:
 4. Undo and Redo an action.
 5. Open existing documents from his computer.
 6. Copy a page from one document to another.
+
+![](images/b.png)
