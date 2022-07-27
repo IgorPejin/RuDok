@@ -1,5 +1,7 @@
 # RuDok
 
+![](images/GIT.jpg)
+
 RuDok is a document manager written in java.
 Rudok's architecture is component based. All components are shown in the picture below:
 
